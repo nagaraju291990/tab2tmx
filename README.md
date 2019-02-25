@@ -9,4 +9,4 @@ Here Language codes are ISO 2 Letter [Language Codes](https://en.wikipedia.org/w
 
 ## Ex:
 
-   python3 tab2tmx.py eng_tel.txt en te
+    python3 tab2tmx.py eng_tel.txt en te
